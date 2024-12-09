@@ -11,7 +11,7 @@ El análisis incluye la preparación de datos, exploración de características,
 
 ## **Elementos del Git**
 - **`Dataset/`**: Contiene los datos utilizados en el proyecto.
-- **`kaggle.ipynb/`**: Notebook de Jupyter con el análisis completo del caso Kaggle.
+- **`kaggle.ipynb`**: Notebook de Jupyter con el análisis completo del caso Kaggle.
 - **`README.md`**: Este archivo.
 
 ---
